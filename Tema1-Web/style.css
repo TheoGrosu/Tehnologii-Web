@@ -1,0 +1,101 @@
+#div_principal
+{
+	height: 1080px;
+	width: 1920px;
+	background-color: #FFF9CA;
+}
+
+
+#id_div_1
+{
+	
+	padding-top: 50px;
+	padding-bottom: 30px;
+	width: 10px;
+	text-align: center;
+	color: black;
+	width:auto;
+	height: 200px;
+}
+
+
+#id_div_2
+{
+	background-color: #FFDEB4;
+	text-align: center;
+	width:auto;
+	height: 500px;
+}
+
+
+#id_div_3
+{	
+	background-color: #FFB4B4;
+	height: 550px;
+	padding: 16px;
+}
+
+
+#id_div_4
+{
+	background-color: #B2A4FF;
+	text-align: center;
+	height: 350px;
+	padding: 10px;
+}
+
+
+#id_1
+{
+	font-family: 'Monsieur La Doulaise', cursive;
+	font-size: 70px;
+}
+
+
+
+#id_2
+{
+	font-family: 'Rouge Script', cursive;
+	font-size: 40px;	
+}
+
+
+
+#id_4
+{
+	font-size: 50px;
+	color: white;
+}
+
+
+.clasa_1
+{
+	font-size: 48px;
+	font-family: 'Alkalami', serif;
+	text-align: center;
+}
+
+
+#buton
+{
+
+	width: 100px;
+	height: 30px;
+	border-radius: 80px;
+	background-color: white;
+	color:pink;
+	text-align: center;
+	
+}
+
+.titlu
+{
+	padding-left: 500px;	
+}
+
+
+.lista
+{
+	padding-left: 50px;
+	font-size: 20px;
+}
